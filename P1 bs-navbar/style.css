@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins" sans-serif;
+}
+
+#navbarNav ul li a {
+    font-weight: bold;
+    color: #0acefe;
+    margin: 5px;
+}
+
+#navbarNav ul li a:hover {
+    font-weight: bold;
+    color: #1651e5;
+    text-decoration: underline;
+}
+
+.fa-search {
+    text-decoration: none;
+    color: gray;
+    cursor: pointer;
+}
+
+.fa-search:hover {
+    text-decoration: none;
+    color: blue;
+    cursor: pointer;
+}
+
+/* input {
+    padding: 0px 5px;
+
+}
+
+i {
+    padding-left: 5px;
+} */
