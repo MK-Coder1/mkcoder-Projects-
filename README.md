@@ -1,6 +1,6 @@
-# [MK_Coder](https://mkcoder.com/) Basic-Projects
+# MK_Coder Basic-Projects
 
-🚀 My Frontend Mini Projects Collection – Learn, Build, Grow
+## 🚀 My Frontend Mini Projects Collection – Learn, Build, Grow
 
 In the old gurukul of craftsmanship, a learner was known not by words but by the work of their hands. In the same timeless spirit, this GitHub repository is my digital workshop — a place where ideas turn into code, and practice slowly becomes mastery.
 
@@ -12,7 +12,7 @@ This repository reflects my journey of learning HTML, CSS, and JavaScript, one p
 👉 You can also explore more of my work, blogs, and learning resources on my personal website:
 🌐 [MK_Coder](https://mkcoder.com/)
 
-📌 About This Repository
+### 📌 About This Repository
 
 This GitHub repository is a curated collection of beginner to intermediate-level web development projects. Each project focuses on a specific concept, tool, or real-world use case, helping reinforce fundamentals while slowly introducing modern development thinking.
 
@@ -29,7 +29,7 @@ To learn by doing, not just watching
 As the elders say: “A well-laid brick teaches more than a thousand drawings.”
 Every folder here is one such brick.
 
-🛠️ Technologies Used
+#### 🛠️ Technologies Used
 
 All projects in this repository are built using core web technologies:
 
@@ -42,11 +42,11 @@ JavaScript (Vanilla JS) – for logic, interaction, and behavior
 No heavy frameworks. No shortcuts.
 Just the classical way — strong foundations first.
 
-📂 Project List Overview
+## 📂 Project List Overview
 
 Below is a detailed look at each project included in this repository, along with what it teaches and why it matters.
 
-▶️ Auto Play Background (Auto play bg.html)
+### ▶️ Auto Play Background (Auto play bg.html)
 
 This project demonstrates how to create an auto-playing background element, often used for videos or audio backgrounds in modern websites.
 
@@ -63,7 +63,7 @@ User experience considerations
 Why it matters:
 Auto-play backgrounds are common in landing pages, portfolios, and brand websites. Learning how to handle them responsibly is a valuable skill.
 
-➗ Calculator
+### ➗ Calculator
 
 A clean and functional calculator web app built using JavaScript logic.
 
@@ -87,7 +87,7 @@ UI + logic synchronization
 
 This project lays the groundwork for problem-solving through code — a timeless developer virtue.
 
-🎨 Color Generator 23
+### 🎨 Color Generator 23
 
 A dynamic color generator tool that creates random colors and displays their values.
 
@@ -104,7 +104,7 @@ Styling with JavaScript
 Real-world use:
 Designers and developers often use color generators. This project shows how simple ideas can turn into useful tools.
 
-😂 Joke Generator
+### 😂 Joke Generator
 
 A fun project that generates random jokes on user interaction.
 
@@ -121,7 +121,7 @@ Content rendering
 Behind the humor lies an important lesson:
 Engagement matters as much as functionality.
 
-🧭 P1 bs-navbar
+### 🧭 P1 bs-navbar
 
 A project focused on building a responsive navigation bar, inspired by Bootstrap-style layouts.
 
@@ -137,7 +137,7 @@ Mobile-first thinking
 
 Navigation bars are the spine of any website, and mastering them is essential.
 
-🔳 QR Code Generator
+### 🔳 QR Code Generator
 
 A practical tool that generates QR codes based on user input.
 
@@ -153,7 +153,7 @@ Real-world utility building
 
 This project connects coding with real-life business use cases, such as payments, links, and marketing.
 
-📝 To Do List
+### 📝 To Do List
 
 The classic To-Do List App, a rite of passage for every developer.
 
@@ -175,7 +175,7 @@ Logical flow control
 
 A simple list — yet a deep teacher.
 
-✍️ Text Editor
+### ✍️ Text Editor
 
 A lightweight text editor web app that allows users to write and edit content.
 
@@ -191,13 +191,13 @@ Basic editor behavior
 
 This project opens the door to more advanced tools like note apps and content management systems.
 
-📘 README.md
+### 📘 README.md
 
 The README itself is a reflection — a storyteller that explains the journey, purpose, and vision behind the code.
 
 And like any good tradition, documentation is not optional — it is respect for future readers.
 
-🌱 Learning Philosophy Behind These Projects
+## 🌱 Learning Philosophy Behind These Projects
 
 In a fast world chasing frameworks and trends, this repository follows a traditional yet forward-moving path:
 
@@ -219,7 +219,7 @@ Debugging patience
 
 Creative confidence
 
-💼 Who Should Explore This Repository?
+#### 💼 Who Should Explore This Repository?
 
 This repository is useful for:
 
@@ -233,7 +233,7 @@ Recruiters looking for raw, honest practice projects
 
 If you value clarity over complexity, you’ll feel at home here.
 
-🔗 Explore More & Connect
+#### 🔗 Explore More & Connect
 
 If you liked these projects and want to see more structured learning, tutorials, and future projects, visit my website:
 
@@ -251,7 +251,7 @@ Developer insights
 
 This GitHub repo is just the beginning.
 
-🚧 Future Plans
+### 🚧 Future Plans
 
 Like a sapling that grows with seasons, this repository will evolve.
 
@@ -267,7 +267,7 @@ Better documentation and demos
 
 The journey continues.
 
-✅ Conclusion
+### ✅ Conclusion
 
 This repository is more than a collection of folders — it is a record of discipline, curiosity, and growth. Each project represents a step taken with honesty, built in the old-school way, yet aimed at the future.
 
@@ -276,4 +276,4 @@ If this work helps even one learner take their next step forward, then it has se
 Thank you for visiting.
 Keep building. Keep learning. Keep moving ahead.
 
-Aage bdo Mohit.
+Aage bdo .
